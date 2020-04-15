@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AMandelbrotClass",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AMandelbrotClass::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AMandelbrotClass-Debug-0ee0ccbcd6386cf22c65.json",
+					"name" : "AMandelbrotClass",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/user/Documents/RAFA/Repos/RafaPraga/advanced-cplusplus/AMandelbrotClass/out/build/x64-Debug",
+		"source" : "C:/Users/user/Documents/RAFA/Repos/RafaPraga/advanced-cplusplus/AMandelbrotClass"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

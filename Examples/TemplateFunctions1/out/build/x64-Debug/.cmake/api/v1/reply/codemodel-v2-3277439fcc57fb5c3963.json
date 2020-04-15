@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TemplateFunctions1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TemplateFunctions1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TemplateFunctions1-Debug-dc2bb48093311f7e3300.json",
+					"name" : "TemplateFunctions1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/user/Documents/RAFA/Repos/RafaPraga/advanced-cplusplus/TemplateFunctions1/out/build/x64-Debug",
+		"source" : "C:/Users/user/Documents/RAFA/Repos/RafaPraga/advanced-cplusplus/TemplateFunctions1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

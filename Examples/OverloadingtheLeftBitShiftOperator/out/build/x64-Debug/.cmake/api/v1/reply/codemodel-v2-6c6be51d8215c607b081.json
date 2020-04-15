@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OverloadingtheLeftBitShiftOperator",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OverloadingtheLeftBitShiftOperator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OverloadingtheLeftBitShiftOperator-Debug-db9ec22111b005b6e01a.json",
+					"name" : "OverloadingtheLeftBitShiftOperator",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/user/Documents/RAFA/Repos/RafaPraga/advanced-cplusplus/OverloadingtheLeftBitShiftOperator/out/build/x64-Debug",
+		"source" : "C:/Users/user/Documents/RAFA/Repos/RafaPraga/advanced-cplusplus/OverloadingtheLeftBitShiftOperator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

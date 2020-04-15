@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MultipleInheritance",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MultipleInheritance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MultipleInheritance-Debug-be1ece2b669a9319fa1a.json",
+					"name" : "MultipleInheritance",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/user/Documents/RAFA/Repos/RafaPraga/advanced-cplusplus/MultipleInheritance/out/build/x64-Debug",
+		"source" : "C:/Users/user/Documents/RAFA/Repos/RafaPraga/advanced-cplusplus/MultipleInheritance"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

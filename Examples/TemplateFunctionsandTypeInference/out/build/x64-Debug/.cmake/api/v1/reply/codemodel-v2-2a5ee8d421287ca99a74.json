@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TemplateFunctionsandTypeInference",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TemplateFunctionsandTypeInference::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TemplateFunctionsandTypeInference-Debug-5078b9b6514fb3e4e3a8.json",
+					"name" : "TemplateFunctionsandTypeInference",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/user/Documents/RAFA/Repos/RafaPraga/advanced-cplusplus/TemplateFunctionsandTypeInference/out/build/x64-Debug",
+		"source" : "C:/Users/user/Documents/RAFA/Repos/RafaPraga/advanced-cplusplus/TemplateFunctionsandTypeInference"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
