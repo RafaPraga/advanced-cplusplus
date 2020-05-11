@@ -12,8 +12,9 @@ using namespace std;
 
 void mightGoWrong() {
 
-	bool error1 = false;
-	bool error2 = true;
+	bool error1 = true;
+	bool error2 = false;
+	bool error3 = true;
 
 	if(error1) {
 		throw "Something went wrong.";
@@ -21,6 +22,10 @@ void mightGoWrong() {
 
 	if(error2) {
 		throw string("Something else went wrong.");
+	}
+
+	if (error3) {
+		throw 55;
 	}
 
 }
@@ -39,8 +44,8 @@ int main() {
 	catch(int e) {
 		cout << "Error code: " << e << endl;
 	}
-	catch(char const * e) {
-		cout << "Error message: " << e << endl;
+	catch(char const * e) {  /* It's not clear why we need the word CONST */
+		cout << "Error message: " << e << endl;  
 	}
 	catch(string &e) {
 		cout << "string error message: " << e << endl;
